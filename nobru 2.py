@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def pesquisa_binaria(lista, item):
     baixo = 0
     alto = len(lista) - 1
@@ -67,4 +66,3 @@ for n, nome in lista:
 else:
     print('Número não encontrado.')
     print('Tentativas:', tentativas)
->>>>>>> d101dc5dc7917d96fe3213d1602b104b518fd78a
